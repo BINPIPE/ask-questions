@@ -7,49 +7,53 @@ Simplified resources for learning methodically.
 [![BINPIPE](https://img.shields.io/badge/Live--Classroom-blue)](https://forms.gle/tDJxDyj2nJyfsgsk7)
 
 
-## How to ask?
+## How to ask questions here?
 
-This repo is **[https://github.com/BINPIPE/ask-questions](https://github.com/BINPIPE/ask-questions)**
+Just [Open an Issue](https://github.com/BINPIPE/ask-questions/issues/new) and write your question in this repo **[https://github.com/BINPIPE/ask-questions](https://github.com/BINPIPE/ask-questions)**
 
-Just [Open an Issue](https://github.com/BINPIPE/ask-questions/issues/new) and write your question.
+## Are there any rules?
 
-## What can be asked?
-
-You can ask any/all of the following or beyond-
+There are! You can ask any/all of the following or beyond-
 * Technology 
 * Career
 * Life
 
-Anything that you feel I or other forum members can help you with.
+If you think me or Binpipe forum members can help you with go ahead and ask. You can also submit your wishlist of training videos you would like to see.
 
-Keep in mind that it should **not be unethical**.
+Please keep in mind that it should **not be unethical**.
 
-It should **not be a consulting arrangement**. If you're looking for a consultant ping me on [Linkedin](https://www.linkedin.com/in/prasanjit-singh).
+Further, this communication should **not be a consulting arrangement**. If you're looking for a consultant ping separately on [Linkedin](https://www.linkedin.com/in/prasanjit-singh).
 
-**Not be a stackoverflow question**. You are getting an error in a program and you need me to look into it. Please ask such questions on 
-* [Stackoverflow](https://stackoverflow.com/), if it's a general programming question.
+**Not be a stackoverflow question**. You are getting an error in an application, automation script or pipeline and you need me to look into it. Please ask such questions on 
+* [Stackoverflow](https://stackoverflow.com/), if the question is generic.
 
-* or [Telegram group](https://t.me/binpipe), if it's a question related to our youtube video courses or about technology.
+* or [Telegram group](https://t.me/binpipe), if it's a question related to our [Youtube Video](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) courses or about technology.
 
-## Will all questions be answered?
+## How long should you wait for your answer?
+At present, I'm a one-man-army doing this to help everyone free of charge. I believe in helping out and giving back to the community, otherwise I would have easily compiled this course on a paid educational platform. So please respect my time and stay assured to get responses and be patient when they get delayed. As the community grows, we will have shared responsibilities and faster turn-around-times. Reach me if you are interested to volunteer!
 
-I'll try my best but understand that I have a full time job and I'm doing this to help as many people as possible. But I have my limits. Any time I spend answering questions is the time I am taking away from my personal learning or my beautiful family.
-In short, be patient and empathetic. And you can help!
 
-## How can I help?
+## How can you help?
 
 There are many ways you can help me do this better:
 1. **Search before** raising an issue. See if the question you have is already there or not.
 2. **Vote on questions** you like or want to be answered first. Likes or any positive emoji will act as a vote.
 3. **Most important!** Ask generic questions, which would be helpful to a lot more people. I'll spend most time on questions which shows potential.
+4. Reach me if you are interested to volunteer!
 
 ## About me
 
-Checkout [https://blog.binpipe.org](https://blog.binpipe.org) for more. I write blogs, give talks at meetups, speak at conferences and teach newbies on [Youtube](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A). I keep learning new stuff from internet, work and life, re-use & simplify it and pay it forward! 
+Apart from being a continious learner, I'm an engineer and teacher. I teach on [Youtube](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and speak on technical forums. 
+Further, I take love helping newbies make a foothold in the Cloud, & Systems Engineering space. 
+
+Checkout [https://blog.binpipe.org](https://blog.binpipe.org) for more about me.
+When not working I love playing the Guitar. If you want to [learn how to play the Guitar here are free lessons](https://guitarnotepad.blogspot.com) for that as well!
+
 
 ## How will I know when my question is answered?
 
-Subscribe. You can click on 'Watch' the repository and you'll get an email every time I answer the question.
+You can click on 'Watch' the repository and you'll get an email every time I answer the question.
+Further, Subscribe to the [Youtube channel](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and Join the [Telegram channel](https://t.me/binpipe) for updates.
 
 <pre>
 <a href="https://www.binpipe.org/">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry.
