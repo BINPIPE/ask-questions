@@ -41,6 +41,11 @@ There are many ways you can help me do this better:
 3. **Most important!** Ask generic questions, which would be helpful to a lot more people. I'll spend most time on questions which shows potential.
 4. Reach me if you are interested to volunteer!
 
+## How will you know when your question is answered?
+
+You can click on 'Watch' the repository and you'll get an email every time I answer the question.
+Further, Subscribe to the [Youtube channel](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and Join the [Telegram channel](https://t.me/binpipe) for updates.
+
 ## About me
 
 Apart from being a continious learner, I'm an engineer and teacher. I teach on [Youtube](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and speak on technical forums. 
@@ -49,11 +54,6 @@ Further, I take love helping newbies make a foothold in the Cloud, & Systems Eng
 Checkout [https://blog.binpipe.org](https://blog.binpipe.org) for more about me.
 When not working I love playing the Guitar. If you want to [learn how to play the Guitar here are free lessons](https://guitarnotepad.blogspot.com) for that as well!
 
-
-## How will I know when my question is answered?
-
-You can click on 'Watch' the repository and you'll get an email every time I answer the question.
-Further, Subscribe to the [Youtube channel](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and Join the [Telegram channel](https://t.me/binpipe) for updates.
 
 <pre>
 <a href="https://www.binpipe.org/">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry.
