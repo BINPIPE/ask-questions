@@ -49,10 +49,9 @@ Further, Subscribe to the [Youtube channel](https://www.youtube.com/channel/UCPT
 ## About me
 
 Apart from being a continious learner, I'm an engineer and teacher. I teach on [Youtube](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A) and speak on technical forums. 
-Further, I take love helping newbies make a foothold in the Cloud, & Systems Engineering space. 
+Further, I take love helping newbies make a foothold in the Cloud, & Systems Engineering space. Checkout [https://blog.binpipe.org](https://blog.binpipe.org) for more about me.
 
-Checkout [https://blog.binpipe.org](https://blog.binpipe.org) for more about me.
-When not working I love playing the Guitar. If you want to [learn how to play the Guitar here are free lessons](https://guitarnotepad.blogspot.com) for that as well!
+When not working, I love playing the Guitar. If you want to [learn how to play the Guitar here are free lessons](https://guitarnotepad.blogspot.com) for that as well!
 
 
 <pre>
